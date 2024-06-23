@@ -1,9 +1,9 @@
 ---
-title: "Algorithmic and Theoretical Analysis for Machine Learning"
+title: "Algorithmic and Theoretical Foundations of Artificial Intelligence"
 collection: teaching
-type: "Workshop"
+type: "summer mini-semester"
 permalink: /teaching/2024-summer-semester-algorithms4AI
-venue: "University 1, Department"
+venue: "Tongji University, School of Mathematical Sciences"
 date: 2024-06-01
 location: "Shanghai, China"
 ---
