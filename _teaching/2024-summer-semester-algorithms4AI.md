@@ -8,7 +8,7 @@ date: 2024-06-01
 location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is designed to give undergraduate-level students a thorough grounding on the algorithms and theoretical analysis for data analysis in Artificial Intelligence. Some interesting examples and applications in data analysis will also be provided.
 
 Heading 1
 ======
