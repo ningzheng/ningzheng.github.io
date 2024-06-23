@@ -22,13 +22,13 @@ repository               : "ningzheng/ningzheng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ning Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Shanghai"
   employer         : "Tongji University"
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : "nzheng at tongji dot edu dot cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
