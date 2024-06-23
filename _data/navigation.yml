@@ -3,17 +3,17 @@ main:
   - title: "Home"
     url: /home/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Talk"
+    url: /talk/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Toolboxes"
-    url: /toolboxes/
+  - title: "Toolbox"
+    url: /toolbox/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
