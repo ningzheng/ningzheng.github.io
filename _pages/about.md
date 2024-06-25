@@ -13,7 +13,7 @@ Tongji University \\
 Email: nzheng at tongji dot edu dot cn
 
 
-# About Me
+### About Me
 ---
 I obtained my PhD degree in Informatics, The Graduate University for Advanced Studies, SOKENDAI, Japan, under the supervision of Professor Ken Hayami. Before joining Tongji, I have been a project researcher in National Institute of Informatics (NII), RIKEN AIP and Institute of Statistical Mathematics (ISM), Tokyo, for five years.
 
