@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ning Zheng / Site Title"
+title                    : "Ning's Homepage"
 title_separator          : "-"
 name                     : &name "Ning Zheng"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "ningzheng/ningzheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "silence.jpg"
   name             : "Ning Zheng"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
