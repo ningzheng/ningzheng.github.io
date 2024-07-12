@@ -15,15 +15,15 @@ Email: nzheng at tongji dot edu dot cn
 
 
 ---
-I obtained my PhD degree in Informatics, The Graduate University for Advanced Studies, SOKENDAI, Japan, under the supervision of Professor Ken Hayami. Before joining Tongji, I have been a project researcher in National Institute of Informatics (NII), RIKEN AIP and Institute of Statistical Mathematics (ISM), Tokyo, for five years.
+I obtained my PhD degree in Informatics, The Graduate University for Advanced Studies, SOKENDAI, Japan, under the supervision of Professor Ken Hayami. Before joining Tongji, I have been a project researcher in National Institute of Informatics (NII), RIKEN Advanced Intelligence Project (AIP) and Institute of Statistical Mathematics (ISM), Tokyo, for five years.
 
 ### Research Interests
 ---
-I am interested in computational scientific problems arising from financial engineering, data science, signal processing and machine learning, with an emphasis on the design and theoretical analysis of efficient numerical algorithms for numerical linear algebra, optimization, preconditioning, multilinear algebra.
+I am interested in computational scientific problems arising from data science, signal processing financial engineering and machine learning, with an emphasis on the design and theoretical analysis of efficient numerical algorithms for numerical linear algebra, optimization, preconditioning, multilinear algebra.
 
-### News
+### Update
 ---
-If you are second, you are nothing.
+
 
 
 
