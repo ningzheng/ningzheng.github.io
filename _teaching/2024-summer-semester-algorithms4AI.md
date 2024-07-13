@@ -8,27 +8,27 @@ date: 2024-06-01
 location: "Shanghai, China"
 ---
 
-#Course Info 
----
 
 This course is designed to give undergraduate-level students a thorough grounding on the algorithms and theoretical analysis for data analysis in Artificial Intelligence. Some interesting examples and applications in data analysis will also be provided.
 
-#Syllabus 
----
-
-#Handouts 
----
-
-#Homework
----
 
 
+# Syllabus 
 
-Heading 1
-======
+## Course Description 
+This course is designed to give undergraduate-level students a thorough grounding on the algorithms and theoretical analysis for data analysis in Artificial Intelligence. Some interesting examples and applications in data analysis will also be provided. 
 
-Heading 2
-======
+## Content 
+- Background removal, image segmentation, and robust principal component analysis; 
+- Image inpainting, matrix completion, and singular value thresholding algorithm;
+- Cauchy-Schwarz inequality, convolution, Face recognition, and nonnegative matrix factorization;
+- Image restoration, ill-posed problem, Tikhonov regularization;
+- Overfitting/underfitting, randomized Kaczmarz method, stochastic gradient descent method.
 
-Heading 3
-======
+# Handouts 
+- [example](https://ningzheng.github.io/files/paper1.pdf)
+
+# Homework
+
+
+
