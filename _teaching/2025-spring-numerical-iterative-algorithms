@@ -9,17 +9,18 @@ location: "Shanghai, China"
 ---
 
 
-This course is designed to give undergraduate-level students a thorough grounding on the algorithms and theoretical analysis for data analysis in Artificial Intelligence. Some interesting examples and applications in data analysis will also be provided.
+This course is designed to give graduate-level students a thorough grounding on the iterative methods for the large-scale linear system or linear least squares problem, and the corresponding theoretical analysis. Some interesting examples and applications in data analysis will also be provided.
 
 
 
 # Syllabus 
 
 ## Course Description 
-This course is designed to give undergraduate-level students a thorough grounding on the algorithms and theoretical analysis for data analysis in Artificial Intelligence. Some interesting examples and applications in data analysis will also be provided. 
+This course is designed to give graduate-level students a thorough grounding on the iterative methods for the large-scale linear system or linear least squares problem, and the corresponding theoretical analysis. Some interesting examples and applications in data analysis will also be provided.
+
 
 ## Content 
-- Background removal, image segmentation, and robust principal component analysis; 
+- Conjugate gradient method; 
 - Image inpainting, matrix completion, and singular value thresholding algorithm;
 - Cauchy-Schwarz inequality, convolution, Face recognition, and nonnegative matrix factorization;
 - Image restoration, ill-posed problem, Tikhonov regularization;
